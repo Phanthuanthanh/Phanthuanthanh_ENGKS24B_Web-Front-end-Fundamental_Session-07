@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-family: Arial, sans-serif;
+}
+.background{
+    position: relative;
+    width: 300px;
+    height: 400px;background-color: #ffffff;
+    border-radius: 10px;
+    border: 1px solid hsl(0, 0%, 100%);
+    position: relative;
+    margin: 15px;
+    box-shadow: 3px 3px 8px #00000080;
+}
+div h3{
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    background-color: #ed1a35;
+    text-align: center;padding-top: 3%;
+    padding-bottom: 3%;
+    text-align: center;
+    width: 300px;
+    height: 40px;
+}
+h3{
+    color: #ffffff;
+}
+.main{
+    text-align: center;
+    width: 270px;
+    margin-left: 13px;
+}
+.picture1{
+    position: absolute;
+    top: -20px;
+    right: -30px;
+}
+.banner{
+    margin: 6px;
+    color: rgb(102, 102, 102);
+    font-weight: 700;
+}
+.color{
+    color: rgb(255, 140, 0);
+}
+.dong{
+    opacity: 20%;
+}
+.button1{
+    border:none;
+    width: 180px;
+    border-radius: 50px;
+    height: 30px;
+    color: white;
+    background-color: rgb(227, 25, 51);
+}
+.button2{
+    border: 2px solid hsl(352, 80%, 49%);
+    margin-top: 10px;
+    width: 100px;
+    border-radius: 50px;
+    height: 30px;
+    color: hsl(352, 80%, 49%);
+    background-color: #ffffff;
+}
+.picture2{
+    position: relative;
+    width: 10px;
+    height: 10px;
+    bottom: -40px;
+    left: 5px;
+}
+.picture3{
+    position: relative;
+    width: 20px;
+    height: 20px;
+    bottom: 39px;
+    left: -20px;
+}
+.chitiet{
+    position: relative;
+    bottom: 4px;
+}
