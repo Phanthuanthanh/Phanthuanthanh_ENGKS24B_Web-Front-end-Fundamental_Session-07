@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.background{
+    background-color: #eaeaea;
+    padding-left: 1%;
+    font-family: Arial, sans-serif;
+}
+div{
+    color:#231751;
+}
+header{
+    color:#231751;
+}
+.button1{
+    background-color: #bc2229;
+    color:white;
+    border:none;
+    border-radius: 6px;
+    width:130px;
+    height: 40px;
+    margin-right: 10px;
+}
+.button2{
+    border: 1px solid rgb(195 190 210);
+    color:#231751;
+    width:190px;
+    height: 40px;
+    border-radius: 6px;
+}
