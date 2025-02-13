@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    padding-left: 1%;
+}
+.container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    width: 360px; 
+    text-align: center;
+    border: solid 1px #c6c1d4;
+}
+h1 {
+    color: #bc2229; 
+    font-size: 2em; 
+    margin: 0;
+}
+main {
+    padding: 20px;
+    margin: 5px 0;
+    color:#231751;
+}
